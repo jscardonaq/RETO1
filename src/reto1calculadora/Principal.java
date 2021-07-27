@@ -1,12 +1,5 @@
 /*
-fori + Tab: FOR
-fcom + Tab: Se obtiene el código para agrupar y comentar. Ejemplo
-sout + Tab o soutv + Tab: Genera los System.out.println(“”).
-iff + Tab: Genera los bloques if. Ejemplo
-sw + Tab: Genera el switch. Ejemplo:
-whilexp + Tab: Genera los bloques While. Otras variantes son whilen y whileit. Ejemplo:
 
-opciones
 
 AUTOR JHON SEBASTIAN CARDONA QUINTERO RETO 1
  */
